@@ -68,11 +68,13 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page
+![Home Page](images/2.png)
 - Modern player interface with audio visualization
 - Country selection with beautiful flag displays
 - Theme selector with live previews
 
 ### 📻 Station Browser
+![Station Browser](images/3.png)
 - Grid layout with station cards
 - Genre icons and metadata display
 - Play buttons and favorite controls
@@ -81,6 +83,16 @@
 - 8 carefully crafted themes
 - Real-time theme switching
 - Color-coordinated audio visualizations
+
+## 🎬 Live Video Demo
+
+![Live Demo](images/4.gif)
+
+Experience the app in action with our interactive demo showing:
+- Theme switching in real-time
+- Audio visualization responding to music
+- Smooth navigation between countries and stations
+- Modern UI animations and transitions
 
 ## 🛠️ Technologies Used
 
@@ -428,8 +440,6 @@ Ready to explore world radio?
 4. **🌍 Choose** a country
 5. **📻 Select** a station
 6. **🎵 Enjoy** radio from around the world!
-
----
 
 ---
 
