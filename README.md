@@ -115,7 +115,7 @@
 
 1. **📥 Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/world-fm-radio.git
+   git clone https://github.com/sourcecodeRTX/Rab_Da_Radio.git
    cd world-fm-radio
    ```
 
@@ -368,7 +368,7 @@ We welcome contributions! Here's how you can help:
 ### **Development Setup**
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/world-fm-radio.git
+git clone https://github.com/sourcecodeRTX/Rab_Da_Radio.git
 
 # Create feature branch
 git checkout -b feature/amazing-feature
@@ -430,13 +430,6 @@ Ready to explore world radio?
 6. **🎵 Enjoy** radio from around the world!
 
 ---
-
-### **📞 Support & Contact**
-
-- 🐛 **Bug Reports:** [GitHub Issues](https://github.com/yourusername/world-fm-radio/issues)
-- 💡 **Feature Requests:** [GitHub Discussions](https://github.com/yourusername/world-fm-radio/discussions)
-- 📧 **Email:** your.email@example.com
-- 🐦 **Twitter:** [@yourusername](https://twitter.com/yourusername)
 
 ---
 
